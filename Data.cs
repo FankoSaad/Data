@@ -17,7 +17,7 @@ public class Locations
     public string? Location { get; set; }
 }
 
-class Program
+class Data
 {
     static void Main(string[] args)
     {
